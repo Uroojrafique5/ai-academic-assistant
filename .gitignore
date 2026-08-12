@@ -1,0 +1,11 @@
+# Laravel files to ignore
+AI academic assistant/vendor/
+AI academic assistant/node_modules/
+AI academic assistant/.env
+
+# Python files to ignore
+Flask service/venv/
+Flask service/.venv/
+Flask service/_pycache_/
+Flask service/*.pyc
+Flask service/.env
